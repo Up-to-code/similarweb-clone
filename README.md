@@ -30,3 +30,7 @@ A web analytics dashboard inspired by SimilarWeb, built with Next.js, React, and
 ### 🚀 Installation
 
 1. Clone the repository:
+
+## Project links
+
+[Source](https://github.com/Up-to-code/similarweb-clone) · [Issues](https://github.com/Up-to-code/similarweb-clone/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
